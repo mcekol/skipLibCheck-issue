@@ -1,0 +1,16 @@
+{
+  "name": "skiplibcheck-issue",
+  "version": "0.0.1",
+  "description": "A demo of a subtle issue present when skipLibCheck is used with a non-intended usage of declaration files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Marko Cekol",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.3.4000"
+  },
+  "devDependencies": {}
+}
